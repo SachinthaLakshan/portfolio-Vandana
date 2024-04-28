@@ -9707,3 +9707,8 @@ textarea.form-control {
   .fontcolor-white{
     color: #fff;
   }
+
+  .award-wrapper i{
+    color:var(--yellow) ;
+    font-size: 50px;
+  }
